@@ -1,0 +1,1 @@
+Todo: rework the way neighbours are checked.
